@@ -8,7 +8,7 @@ of the browser window, the enemy in the form of floaters and the player in the f
 <img src='./screenshot.png' alt="screenshot" width="500"/>
 
 
-### Control
+### Controls
 - up / down, left / right keys arrow, move the snake
 - space play / pause
 
