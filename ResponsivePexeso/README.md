@@ -4,6 +4,8 @@ Quickie, simple game consists of 6 layers of the playing fields. The fields are 
 
 <img src='screenshot.jpg' alt='screenshot' width='600'/>
 
+### Demo: <a href='http://jjarcik.github.io/games/ResponsivePexeso/'>http://jjarcik.github.io/games/ResponsivePexeso/</a>
+
 ## Technologies
  - JavaScript (jQuery)
  - CSS3
