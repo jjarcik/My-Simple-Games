@@ -1,1 +1,1 @@
-# Something like games from my production 
+Small games from my production, they are only experiments.
