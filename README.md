@@ -15,3 +15,14 @@ Demo http://jjarcik.github.io/games/gravityballs/
 <img src='./ResponsivePexeso/screenshot.jpg' alt='screenshot' width='400'/>
 
 Demo: <a href='http://jjarcik.github.io/games/ResponsivePexeso/'>http://jjarcik.github.io/games/ResponsivePexeso/</a>
+
+
+## Mickey Mouse
+<img src='./MickeyMouse/screenshot.jpg' alt='screenshot' width='400'/>
+
+Demo: <a href='http://jjarcik.github.io/games/MickeyMouse/'>http://jjarcik.github.io/games/MickeyMouse/</a>
+
+## Arkanoid
+<img src='./Arkanoid/screenshot.jpg' alt='screenshot' width='400'/>
+
+Demo: <a href='http://jjarcik.github.io/games/Arkanoid/'>http://jjarcik.github.io/games/Arkanoid/</a>
